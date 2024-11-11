@@ -1,6 +1,6 @@
 # Floating Menu Button with Animated Icons
 
-## <a href="https://adityamamta.github.io/accept-decline-btn/"><img src="img/readme-btn.png" alt="Click to view live website" height="120"></a> 
+## <a href="https://adityamamta.github.io/floating-menu-action-btn/"><img src="img/readme-btn.png" alt="Click to view live website" height="120"></a> 
 
 This project showcases a responsive floating menu button with animated icons using HTML, CSS, and JavaScript. Clicking the main button reveals three icons (edit, save, and profile) that smoothly transition with delay and subtle hover shadows for a polished look.
 
@@ -23,4 +23,4 @@ This project showcases a responsive floating menu button with animated icons usi
 💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/) <br>
 adityamamta4@gmail.com
 
-![preview img](image/card-hover-effect-mockup.png)
+<!-- ![preview img](image/card-hover-effect-mockup.png) -->
