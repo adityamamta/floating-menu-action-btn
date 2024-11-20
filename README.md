@@ -20,7 +20,8 @@ This project showcases a responsive floating menu button with animated icons usi
 - Hover over icons to see the shadow effect.
 - Customize by adjusting translate values, colors, or adding more icons.
 
-💼 Contact me on linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/) <br>
-adityamamta4@gmail.com
+### 💼 Contact me 
+- linkedin. [Linkedin](https://www.linkedin.com/in/adityamamta/)
+- Email: adityamamta4@gmail.com
 
 <!-- ![preview img](image/card-hover-effect-mockup.png) -->
